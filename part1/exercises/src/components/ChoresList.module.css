@@ -1,7 +1,26 @@
+.container {
+   max-width: 40%;
+   margin: 5%;
+   padding: 20px;
+   background-color: rgb(255, 230, 221);
+   /* border: 3px salmon solid; */
+   border-radius: 25px;
+}
+
 .choresText {
-   color: black;
+   color: orangered;
+   text-align: left;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-size: xx-large;
+   font-style: italic;
 }
 
 .choresHeading {
-   color: black;
+   padding: 20px;
+   background-color: salmon;
+   border-radius: 10px;
+   color: white;
+   font-size: xx-large;
+   text-decoration: underline;
+   text-align: left;
 }

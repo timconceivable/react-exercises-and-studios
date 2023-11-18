@@ -1,7 +1,23 @@
+.container {
+   max-width: 40%;
+   margin: 5%;
+   padding: 20px;
+   background-color: aqua;
+   /* border: 3px blue solid; */
+   border-radius: 25px;
+}
+
 .movieText {
-   color: black;
+   color: darkblue;
+   text-align: left;
+   font-size: xx-large;
 }
 
 .movieHeading {
-   color: black;
+   padding: 20px;
+   background-color: darkblue;
+   border-radius: 10px;
+   color: white;
+   text-align: left;
+   font-size: xx-large;
 }
