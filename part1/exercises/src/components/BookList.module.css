@@ -1,26 +1,30 @@
 .container {
-   max-width: 20rem;
+   max-width: 50rem;
    margin: 2rem;
    padding: 2rem;
-   background-color: rgb(255, 230, 221);
-   /* border: 3px salmon solid; */
+   background-color: lightgreen;
    border-radius: 25px;
 }
 
-.choresText {
-   color: orangered;
+.booksText {
+   color: darkgreen;
    text-align: left;
    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
    font-size: xx-large;
    font-style: italic;
 }
 
-.choresHeading {
+.booksHeading {
    padding: 20px;
-   background-color: salmon;
+   background-color: darkgreen;
    border-radius: 10px;
    color: white;
    font-size: xx-large;
-   text-decoration: underline;
    text-align: left;
+}
+
+.booksImg {
+   height: 200px;
+   background-color: white;
+   padding: 10px;
 }

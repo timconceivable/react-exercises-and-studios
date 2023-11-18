@@ -1,7 +1,7 @@
 .container {
-   max-width: 40%;
-   margin: 5%;
-   padding: 20px;
+   max-width: 20rem;
+   margin: 2rem;
+   padding: 2rem;
    background-color: aqua;
    /* border: 3px blue solid; */
    border-radius: 25px;
