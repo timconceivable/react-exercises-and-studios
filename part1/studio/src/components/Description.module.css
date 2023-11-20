@@ -1,6 +1,9 @@
+.description {
+   text-align: left;
+}
+
 .recipeAuthorBlock {
-   display: flex;
-   justify-content: space-evenly;
+   text-align: right;
 }
 
 .imageUpdates {
